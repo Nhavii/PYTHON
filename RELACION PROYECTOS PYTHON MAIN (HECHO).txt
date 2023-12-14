@@ -1,0 +1,12 @@
+Buscador de archivos: Crea un script que busque archivos en una carpeta específica según el nombre o la extensión del archivo.   HECHO
+
+Generador de gráficos: Crea un programa que tome datos y genere gráficos interactivos para visualizar la información de manera más clara. HECHO
+
+Analizador de texto: Desarrolla un script que analice un texto y proporcione estadísticas como el número de palabras, caracteres, oraciones, etc. HECHO
+
+Web scraper: Desarrolla un script que extraiga información específica de una página web, como titulares de noticias o datos de productos. HECHO
+
+Fibonacci: Escribir un programa para generar una secuencia de Fibonacci de longitud dada por el usuario. HECHO
+
+Cifrado Cesar: Crear un programa para cifrar y descifrar mensajes utilizando el cifrado César. HECHO
+

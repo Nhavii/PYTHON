@@ -1,0 +1,15 @@
+1.Obtener el directorio actual: Utiliza la función os.getcwd() para obtener el directorio actual en el que se encuentra tu script de Python.
+
+2.Listar archivos en un directorio: Utiliza la función os.listdir() para obtener una lista de todos los archivos y directorios en un directorio específico.
+
+3.Crear un directorio: Utiliza la función os.mkdir() para crear un nuevo directorio en la ubicación especificada.
+
+4.Eliminar un archivo o directorio: Utiliza la función os.remove() para eliminar un archivo y la función os.rmdir() para eliminar un directorio vacío.
+
+5.Renombrar un archivo o directorio: Utiliza la función os.rename() para cambiar el nombre de un archivo o directorio.
+
+6.Verificar si un archivo o directorio existe: Utiliza la función os.path.exists() para verificar si un archivo o directorio existe en una ubicación específica.
+
+7. Obtener información sobre un archivo: Utiliza la función os.stat() para obtener información detallada sobre un archivo, como su tamaño, fecha de creación, etc.
+
+TODO HEEEEEEEEEEEEEEEEEEEECHOOOOOOOOOOOOOOOOOOOOOOOOOOOOO

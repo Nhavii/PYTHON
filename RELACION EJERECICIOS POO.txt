@@ -1,0 +1,19 @@
+1.Crea una clase llamada "Persona" con atributos como nombre, edad y dirección. Luego, crea objetos de esta clase y muestra sus atributos.   HECHO
+
+2.Implementa una clase "Rectángulo" con atributos de longitud y ancho. Agrega métodos para calcular el área y el perímetro del rectángulo.   HECHO
+
+3.Crea una clase "CuentaBancaria" con atributos como número de cuenta y saldo. Agrega métodos para depositar dinero, retirar dinero y mostrar el saldo actual.    HECHO
+
+4.Implementa una clase "Estudiante" con atributos como nombre, edad y calificaciones. Agrega métodos para calcular el promedio de calificaciones y determinar si el estudiante ha aprobado o no.     HECHO
+
+5.Crea una clase "Coche" con atributos como marca, modelo y año. Agrega métodos para acelerar, frenar y mostrar la información del coche. HECHO
+
+6.Implementa una clase "Tienda" con atributos como nombre y productos. Agrega métodos para agregar productos a la tienda, mostrar la lista de productos y buscar un producto por su nombre.    HECHO
+
+7.Crea una clase "Libro" con atributos como título, autor y año de publicación. Agrega métodos para mostrar la información del libro y verificar si está disponible en la biblioteca.    HECHO
+
+8.Implementa una clase "Círculo" con atributos de radio y color. Agrega métodos para calcular el área y el perímetro del círculo.   HECHOOO
+
+9.Crea una clase "Empleado" con atributos como nombre, salario y departamento. Agrega métodos para calcular el salario anual y mostrar la información del empleado. HECHOOO
+
+10.Implementa una clase "Mascota" con atributos como nombre, especie y edad. Agrega métodos para mostrar la información de la mascota y determinar si es un perro o un gato. HECHOOOO

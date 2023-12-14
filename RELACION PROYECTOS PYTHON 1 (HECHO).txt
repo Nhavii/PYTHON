@@ -1,0 +1,23 @@
+¡Por supuesto! Aquí tienes una lista de 10 proyectos muy básicos que puedes hacer utilizando Python:
+
+-Conversor de monedas: Crea un programa que convierta una cantidad en una moneda a otra moneda utilizando tasas de cambio-------------------DONE
+
+-Generador de números aleatorios: Desarrolla un script que genere números aleatorios y los muestre en pantalla.---------DONE
+
+-Contador de palabras: Crea un programa que cuente el número de palabras en un texto dado por el usuario.---DONE
+
+-Calculadora de propinas: Desarrolla un script que calcule automáticamente la propina basada en un porcentaje dado.---DONE
+
+-Generador de lista de tareas: Crea una aplicación que permita al usuario agregar y eliminar tareas de una lista.--------DONE
+
+-Simulador de dados: Desarrolla un programa que simule el lanzamiento de dados y muestre los resultados.------DONE
+
+-Generador de contraseñas simples: Crea un script que genere contraseñas aleatorias utilizando caracteres alfanuméricos.---------DONE
+
+-Calculadora de IMC: Desarrolla un programa que calcule el Índice de Masa Corporal (IMC) basado en la altura y el peso del usuario.--------DONE
+
+-Juego de adivinanzas: Crea un juego donde el programa genera un número aleatorio y el jugador tiene que adivinarlo en un número limitado de intentos.------DONE
+
+-Generador de nombres de usuario: Desarrolla un script que genere nombres de usuario aleatorios basados en los nombres y apellidos del usuario.
+-------DONE
+Estos proyectos son perfectos para principiantes y te ayudarán a familiarizarte con los conceptos básicos de Python. ¡Espero que los disfrutes!

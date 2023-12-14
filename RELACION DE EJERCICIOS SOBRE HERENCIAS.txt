@@ -1,0 +1,19 @@
+1. Define una clase "Animal" con un método simple como "hacer_sonido". Luego, crea subclases como "Perro" y "Gato" que hereden de la clase "Animal" y sobrescriban el método "hacer_sonido" para que cada subclase imprima un sonido diferente. HECHO
+
+2. Crea una clase "FiguraGeometrica" con un método para calcular el área. Luego, crea subclases como "Cuadrado" y "Círculo" que hereden de la clase "FiguraGeometrica" y proporcionen implementaciones para calcular el área de cada forma. HECHO
+
+3. Implementa una clase "Vehiculo" con atributos como marca y modelo. Luego, crea subclases como "Coche" y "Motocicleta" que hereden de la clase "Vehiculo" y agreguen atributos propios, como "numero_puertas" para el coche o "cilindrada" para la motocicleta. HECHO
+
+4. Diseña una clase "CuentaBancaria" con métodos para depositar, retirar y obtener saldo. Luego, crea subclases como "CuentaCorriente" y "CuentaAhorro" que hereden de la clase "CuentaBancaria" y añadan funcionalidades específicas a cada tipo de cuenta, como comisiones en el caso de la cuenta corriente.
+
+5. Define una clase "Forma" con métodos para calcular el perímetro y el área. Luego, crea subclases como "Rectangulo" y "Triangulo" que hereden de la clase "Forma" y proporcionen implementaciones para calcular perímetro y área específicas de cada forma.
+
+6. Crea una clase "Empleado" con atributos como nombre y salario. Luego, crea subclases como "Gerente" y "Desarrollador" que hereden de la clase "Empleado" y agreguen métodos para calcular bonificaciones o beneficios adicionales.
+
+7. Implementa una jerarquía de clases para un videojuego, con una clase base "Personaje" y subclases como "Guerrero", "Mago" y "Arquero" que hereden de "Personaje" y tengan habilidades y atributos específicos para cada tipo de personaje.
+
+8. Diseña un sistema de gestión de empleados, con una clase base "Empleado" y subclases como "Supervisor" y "Trabajador" que hereden de "Empleado" y tengan métodos para gestionar tareas y reportar avances.
+
+9. Define una estructura de clases para simular un sistema de reservas de vuelos, con una clase base "Vuelo" y subclases como "VueloEconomico" y "VueloPremium" que hereden de "Vuelo" y tengan métodos para gestionar asientos y tarifas.
+
+10. Crea un sistema de gestión de activos financieros, con una clase base "ActivoFinanciero" y subclases como "Acción", "Obligación" y "FondoInversión" que hereden de "ActivoFinanciero" y tengan métodos para calcular rendimientos y riesgos específicos de cada tipo de activo.
